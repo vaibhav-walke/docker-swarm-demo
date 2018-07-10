@@ -36,4 +36,3 @@ docker stack deploy -c docker-compose.yml demo
 ```
 
 The first line defines the `db_password` secret in your Swarm, and the second deploys the actual stack.
-
